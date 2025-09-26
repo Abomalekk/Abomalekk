@@ -20,7 +20,7 @@
   💻 I love building scalable web applications and APIs.  
   🌱 Currently learning more about <b>Microservices, Docker & Cloud</b>.  
   🤝 Open to collaborating on <b>Fullstack & .NET projects</b>.  
-  📫 Reach me at: <a href="mailto:yourmail@example.com">yourmail@example.com</a>  
+  📫 Reach me at: <a href="abomalek5566m">yourmail@example.com</a>  
 </p>
 
 <hr>
